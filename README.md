@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on a project to learn
 - 📫 How to reach me: devjoakimpedersen@gmail.com
 
+link to my portefolio: https://devjoakim.netlify.app/
+
 You got to start somewhere. and maybe you'll find you path.
 
 <!---
