@@ -16,6 +16,9 @@ My name is Joakim Pedersen and I work with making the web more immersive.
 - WebGl trough three.js and react three fiber.
 - blender
 - Vim
+- faunaDB
+- CMS systems
+- Matterport
 
 ##Where to find me
 
