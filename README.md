@@ -20,6 +20,7 @@ My name is Joakim Pedersen and I work with making the web more immersive.
 ##Where to find me
 
 [View my portfolio](https://pedersen.codes/)
+
 [Twitter](https://twitter.com/devJoakim)
 
 ## Coding memes
