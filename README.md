@@ -23,7 +23,7 @@ My name is Joakim Pedersen and I work with making the web more immersive.
 - CMS systems
 - Matterport
 
-##Where to find me
+## Where to find me
 
 [View my portfolio](https://pedersen.codes/)
 
