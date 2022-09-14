@@ -2,9 +2,11 @@
 # Welcome
 
 My name is Joakim Pedersen and I work with making the web more immersive. 
+
 🇳🇴 🇳🇴 🇳🇴 🇳🇴 
 
 ##My skills
+
 - react
 - next
 - javascript
